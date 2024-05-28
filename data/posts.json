@@ -1,0 +1,70 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "His mother had always taught him",
+        "body": "His mother had always taught him not to ever think of himself as better than others. He'd tried to live by this motto. He never looked down on those who were less fortunate or who had less money than him. But the stupidity of the group of people he was talking to made him change his mind.",
+        "tags": [
+          "history",
+          "american",
+          "crime"
+        ],
+        "reactions": 9,
+        "views": 305,
+        "userId": 121
+      },
+      {
+        "id": 2,
+        "title": "The Adventures of Tom Sawyer",
+        "body": "The Adventures of Tom Sawyer is a novel by Mark Twain about a young boy growing up along the Mississippi River. It is set in the fictional town of St. Petersburg, inspired by Hannibal, Missouri, where Twain lived. Tom Sawyer lives with his Aunt Polly and his half-brother Sid. He is mischievous, adventurous, and full of energy. Tom gets into trouble at school and at home but always manages to come out on top. Along with his best friend Huckleberry Finn, Tom has many adventures, including hunting for buried treasure, pretending to be pirates, and witnessing a murder. The novel is a classic coming-of-age story that explores themes of friendship, freedom, and the conflict between societal expectations and individual desires.",
+        "tags": [
+          "literature",
+          "adventure",
+          "coming-of-age"
+        ],
+        "reactions": 25,
+        "views": 567,
+        "userId": 122
+      },
+      {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "body": "The Great Gatsby is a novel by American author F. Scott Fitzgerald. The story takes place in 1922, during the Roaring Twenties, a time of prosperity and excess in the United States. The novel's protagonist, Jay Gatsby, is a mysterious millionaire who throws lavish parties at his mansion on Long Island. Gatsby is in love with Daisy Buchanan, a married woman from his past, and he spends years building his fortune in the hopes of winning her back. The novel explores themes of wealth, love, and the American Dream, as well as the emptiness and moral decay lurking beneath the surface of high society.",
+        "tags": [
+          "literature",
+          "romance",
+          "american"
+        ],
+        "reactions": 50,
+        "views": 983,
+        "userId": 123
+      },
+      {
+        "id": 4,
+        "title": "Artificial Intelligence: A Modern Approach",
+        "body": "Artificial Intelligence: A Modern Approach is a comprehensive textbook on artificial intelligence, written by Stuart Russell and Peter Norvig. It is widely used in universities and colleges around the world as a standard textbook for courses on AI. The book covers a broad range of topics, including problem-solving, knowledge representation, machine learning, natural language processing, robotics, and more. It is known for its clear and accessible writing style, as well as its rigorous treatment of the subject matter.",
+        "tags": [
+          "artificial intelligence",
+          "machine learning",
+          "textbook"
+        ],
+        "reactions": 15,
+        "views": 432,
+        "userId": 124
+      },
+      {
+        "id": 5,
+        "title": "The Catcher in the Rye",
+        "body": "The Catcher in the Rye is a novel by J.D. Salinger, first published in 1951. The story is narrated by Holden Caulfield, a teenager who has been expelled from prep school and is wandering around New York City. Holden is cynical, rebellious, and deeply alienated from society. He criticizes the 'phoniness' of the adult world and longs for authenticity and connection. The novel explores themes of adolescence, alienation, and the search for identity.",
+        "tags": [
+          "literature",
+          "coming-of-age",
+          "american"
+        ],
+        "reactions": 35,
+        "views": 754,
+        "userId": 125
+      }
+    ]
+  }
+  
